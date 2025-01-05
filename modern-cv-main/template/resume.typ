@@ -2,12 +2,12 @@
 
 #show: resume.with(
   author: (
-    firstname: "John",
-    lastname: "Smith",
-    email: "js@example.com",
+    firstname: "Gunnam",
+    lastname: "Sudharshan",
+    email: "sudharshangunnam456@gmail.com",
     homepage: "https://example.com",
-    phone: "(+1) 111-111-1111",
-    github: "DeveloperPaul123",
+    phone: "(+91) 630-382-4442",
+    github: "sudharshan9312",
     twitter: "typstapp",
     scholar: "",
     orcid: "0000-0000-0000-000X",
